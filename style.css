@@ -57,3 +57,9 @@
   font-size: 60px;
   margin-bottom: -8px;
 }
+.rocket{
+  width: 250px;
+  position: absolute;
+  right: 10%;
+  bottom: 0;
+}
